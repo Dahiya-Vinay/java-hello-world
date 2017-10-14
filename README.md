@@ -1,2 +1,2 @@
-# java-hello-world
+## java-hello-world
 My first GitHub repository
